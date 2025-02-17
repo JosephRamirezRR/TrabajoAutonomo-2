@@ -1,4 +1,4 @@
-#Juego ahorcado (este codigo lo califico otro maestro de la UIDE, debido a la nota baja que me coloco decidi colocarle las notas ya que esto no me habia hecho falta)
+#Juego ahorcado
 import random    #importamos biblioteca random para que el codigo pueda elegir variables de forma aleatoria
 
 def GetRandomWord():
